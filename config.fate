@@ -1,0 +1,1 @@
+config:arm:armv6:armv6:linux:gcc 4.8.3 (crosstool-NG linaro-1.13.1+bzr2650 - Linaro GCC 2014.03) 20140303 (prerelease):--enable-cross-compile --cross-prefix=/opt/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/arm-linux-gnueabihf- --arch=armel --target-os=linux --enable-gpl --enable-libx264 --extra-cflags=-Ix264/ --extra-ldflags='-ldl -Lx264/'
