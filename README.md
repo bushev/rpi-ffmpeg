@@ -1,3 +1,5 @@
+FFmpeg binaries for Raspberry Pi, compiled by: https://gist.github.com/daz/0fecfb80dca969c0a3b4
+
 FFmpeg README
 =============
 
